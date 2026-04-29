@@ -28,4 +28,3 @@ public class UC5 {
             return true;
         }
     }
-}
